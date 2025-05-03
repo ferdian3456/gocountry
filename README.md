@@ -1,6 +1,6 @@
 # Go Country: ISO 3166-1 Alpha-2 Country Codes
 
-This Go program demonstrates how to set and get country codes based on ISO 3166-1 alpha-2 country codes. It is a simple and efficient way to organize a large set of data in alphabetical order. The purpose of this is project is to provide a correct country codes for third party api services such as Paypal, Shippo, Easyship, and others that require country codes in the the ISO 3166-1 alpha-2 format.  
+This Go program demonstrates how to set and get country codes based on ISO 3166-1 alpha-2 country codes. It is a simple and efficient way to organize a large set of data in alphabetical order. The purpose of this is project is to provide a correct country codes for third party api services such as <a href="https://developer.paypal.com/api/nvp-soap/country-codes/">Paypal</a>, <a href="https://docs.goshippo.com/shippoapi/public-api/">Shippo</a>, and others that require country codes in the the ISO 3166-1 alpha-2 format.  
 
 ## Features
 1. There are over 195 countries:
